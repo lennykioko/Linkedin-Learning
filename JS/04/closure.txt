@@ -1,0 +1,3 @@
+Defn:
+
+A closure is a function inside a function that relies on variables in the outer function to work
